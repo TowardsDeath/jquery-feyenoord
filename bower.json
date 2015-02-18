@@ -1,0 +1,34 @@
+{
+  "name": "jquery-feyenoord",
+  "version": "0.1",
+  "main": [
+    "src/jquery-feyenoord.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "keywords": [
+    "jquery",
+    "javascript",
+    "feyenoord",
+    "ajax",
+    "football"
+  ],
+  "description": "Asynchronous requests for Feyenoord supporters.",
+  "authors": [
+    "Robert van Kempen"
+  ]
+}
