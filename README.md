@@ -8,9 +8,9 @@ If you’re a supporter of Feyenoord, or if you think ancient Greek heroes are p
 
 ## Usage
 
-Install using bower:
+Install using npm:
 
-`$ bower install jquery-feyenoord`
+`npm install jquery-feyenoord --save`
 
 Then, when using the [jQuery Ajax API](http://api.jquery.com/category/ajax/) just replace ‘ajax’ with ‘feyenoord’ in your code, e.g. `$.feyenoord(url, options);`.
 

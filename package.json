@@ -1,0 +1,30 @@
+{
+  "name": "jquery-feyenoord",
+  "version": "1.0.0",
+  "description": "Asynchronous requests for Feyenoord supporters.",
+  "main": "src/jquery-feyenoord.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoNormal/jquery-feyenoord.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "feyenoord",
+    "ajax",
+    "football",
+    "rotterdam"
+  ],
+  "author": "Robert van Kempen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoNormal/jquery-feyenoord/issues"
+  },
+  "homepage": "https://github.com/DoNormal/jquery-feyenoord#readme"
+}
